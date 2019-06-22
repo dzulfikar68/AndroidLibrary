@@ -5,7 +5,7 @@ List Android Library My Version.
 
 https://github.com/XRecyclerView/XRecyclerView
 
-https://github.com/dzulfikar68/Search-Dialog-1
+https://github.com/msoftware/Search-Dialog-1
 
 https://github.com/medyo/Fancybuttons
 
