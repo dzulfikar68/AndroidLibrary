@@ -16,6 +16,8 @@ https://github.com/JakeWharton/butterknife
 
 https://github.com/bumptech/glide
 
+https://github.com/square/android-times-square
+
 https://github.com/google/material-design-icons
 
 https://github.com/googlesamples/easypermissions
@@ -418,3 +420,27 @@ https://github.com/airbnb/lottie-android
 https://github.com/Angtrim/Android-Five-Stars-Library
 
 https://github.com/stepstone-tech/android-material-app-rating
+
+https://github.com/SilleBille/DynamicCalendar
+
+https://github.com/Manabu-GT/ExpandableTextView
+
+https://github.com/saeedsh92/Banner-Slider
+
+https://github.com/daimajia/AndroidImageSlider
+
+https://github.com/MustafaFerhan/MFCalendarView
+
+https://github.com/psinetron/slycalendarview
+
+https://github.com/roomorama/Caldroid
+
+https://github.com/bravoborja/ReadMoreTextView
+
+https://github.com/prolificinteractive/material-calendarview
+
+https://github.com/hdodenhof/CircleImageView
+
+https://github.com/cachapa/ExpandableLayout
+
+https://github.com/dimasvm/BottomNavigationView
