@@ -1,8 +1,11 @@
 # AndroidLibrary
 List Android Library My Version.
 
+https://github.com/wasabeef/awesome-android-ui
+
 
 5 stars :
+
 https://github.com/googlesamples/easypermissions
 
 https://github.com/XRecyclerView/XRecyclerView
@@ -59,6 +62,7 @@ https://github.com/NeoLSN/DialogAlchemy
 
 
 other stars :
+
 https://github.com/nex3z/ToggleButtonGroup
 
 https://github.com/ApplikeySolutions/CosmoCalendar
@@ -196,3 +200,43 @@ https://github.com/balysv/material-ripple
 https://github.com/TakuSemba/Spotlight
 
 https://github.com/florent37/MaterialTextField
+
+https://github.com/r0adkll/Slidr
+
+https://github.com/javiersantos/MaterialStyledDialogs
+
+https://github.com/ppamorim/Dragger
+
+https://github.com/etsy/AndroidStaggeredGrid
+
+https://github.com/askerov/DynamicGrid
+
+https://github.com/alexzaitsev/freepager
+
+https://github.com/RomainPiel/Titanic
+
+https://github.com/team-supercharge/ShimmerLayout
+
+https://github.com/RomainPiel/Shimmer-android
+
+https://github.com/facebook/shimmer-android
+
+https://github.com/castorflex/SmoothProgressBar
+
+https://github.com/JorgeCastilloPrz/AndroidFillableLoaders
+
+https://github.com/d-max/spots-dialog
+
+https://github.com/81813780/AVLoadingIndicatorView
+
+https://github.com/EyalBira/loading-dots
+
+https://github.com/race604/WaveLoading
+
+https://github.com/ChadCSong/ShineButton
+
+https://github.com/tarek360/RichPath
+
+https://github.com/webkul/coolhue
+
+https://github.com/gturedi/StatefulLayout
