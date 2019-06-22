@@ -25,4 +25,35 @@ https://github.com/xabaras/RecyclerViewSwipeDecorator
 
 https://github.com/nex3z/FlowLayout
 
+https://github.com/Livin21/MissMe
+
+https://github.com/Manabu-GT/ExpandableTextView
+
+https://github.com/TUBB/SwipeMenu
+
+https://github.com/orhanobut/dialogplus
+
+https://github.com/chuross/expandable-layout
+
+https://github.com/81813780/AVLoadingIndicatorView
+
+https://github.com/battleent/android-BlankSpace
+
+https://github.com/javiersantos/BottomDialogs
+
+https://github.com/ashishbhandari/AndroidTabbedDialog
+
+https://github.com/edTheGuy00/SimplePlacesSearchDialog
+
+https://github.com/AAkira/ExpandableLayout
+
+https://github.com/BROUDING/SimpleDialog
+
+https://github.com/anzaizai/EasyRefreshLayout
+
+https://github.com/Taishi-Y/FlipProgressDialog
+
+https://github.com/dzulfikar68/DialogAlchemy
+
+
 other stars :
