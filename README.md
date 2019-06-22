@@ -6,6 +6,18 @@ https://github.com/wasabeef/awesome-android-ui
 
 5 stars :
 
+https://github.com/square/retrofit
+
+https://github.com/square/okhttp
+
+https://github.com/google/guava
+
+https://github.com/JakeWharton/butterknife
+
+https://github.com/bumptech/glide
+
+https://github.com/google/material-design-icons
+
 https://github.com/googlesamples/easypermissions
 
 https://github.com/XRecyclerView/XRecyclerView
@@ -62,6 +74,12 @@ https://github.com/NeoLSN/DialogAlchemy
 
 
 other stars :
+
+https://github.com/ReactiveX/RxJava
+
+https://github.com/square/leakcanary
+
+https://github.com/facebook/fresco
 
 https://github.com/nex3z/ToggleButtonGroup
 
@@ -240,3 +258,51 @@ https://github.com/tarek360/RichPath
 https://github.com/webkul/coolhue
 
 https://github.com/gturedi/StatefulLayout
+
+https://github.com/afollestad/material-dialogs
+
+https://github.com/michael-rapp/AndroidMaterialDialog
+
+https://github.com/amarjain07/StickyScrollView
+
+https://github.com/ahmed-basyouni/CircularImageClick
+
+https://github.com/wajahatkarim3/MediumClap-Android
+
+https://github.com/joielechong/MaterialFancyButtons
+
+https://github.com/manojbhadane/QButton
+
+https://github.com/hoang8f/android-flat-button
+
+https://github.com/libgdx/libgdx
+
+https://github.com/nostra13/Android-Universal-Image-Loader
+
+https://github.com/Blankj/AndroidUtilCode
+
+https://github.com/PhilJay/MPAndroidChart
+
+https://github.com/zxing/zxing
+
+https://github.com/scwang90/SmartRefreshLayout
+
+https://github.com/REBOOTERS/UltimateRefreshView
+
+https://github.com/Bakumon/BkLoadMore
+
+https://github.com/msdx/hi-loadmore
+
+https://github.com/yanyiqun001/goRefresh
+
+https://github.com/EastWoodYang/AutoQuickAdapter
+
+https://github.com/Pyush/Android-RecyclerView-Loadmore
+
+https://github.com/yanzhenjie/LoadMore
+
+https://github.com/guhongya/SwipeRefreshPlus
+
+https://github.com/luhaoaimama1/ZRefreshLayout
+
+https://github.com/TakWolf/Android-RefreshAndLoadMore-Demo
