@@ -3,15 +3,15 @@ List Android Library My Version.
 
 5 stars :
 
-https://github.com/dzulfikar68/XRecyclerView
+https://github.com/XRecyclerView/XRecyclerView
 
 https://github.com/dzulfikar68/Search-Dialog-1
 
-https://github.com/dzulfikar68/Fancybuttons
+https://github.com/medyo/Fancybuttons
 
-https://github.com/dzulfikar68/Spotlight
+https://github.com/TakuSemba/Spotlight
 
-https://github.com/dzulfikar68/awesome-android-ui
+https://github.com/wasabeef/awesome-android-ui
 
 https://github.com/mirrajabi/search-dialog
 
